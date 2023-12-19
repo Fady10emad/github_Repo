@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 eh yasta 3aiz ehh
+=======
+ehh y3m enta
+>>>>>>> b9ca74bdfc6a411fc2e82d7b91a8df93d5cf0dac
